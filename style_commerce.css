@@ -1,0 +1,26 @@
+.top{
+    display: flex;
+    padding: 30px;
+    align-items: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.products1{
+    display: flex;
+}
+.products2{
+    display: flex;
+}
+.carousel{
+    height: 700px;
+    width: 700px;
+}
+.sale{
+    display: flex;
+}
+.caption{
+    padding-left: 20px;
+    color: rgb(44, 8, 112);
+}
